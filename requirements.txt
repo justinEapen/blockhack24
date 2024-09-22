@@ -9,3 +9,4 @@ python-docx
 matplotlib
 pillow
 fpdf2
+cryptography
