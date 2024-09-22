@@ -10,3 +10,4 @@ matplotlib
 pillow
 fpdf2
 cryptography
+pyttsx3
